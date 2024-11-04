@@ -90,7 +90,7 @@ This Challenge is graded based on the following criteria:
 ### Technical Acceptance Criteria: 40%
 * Satisfies all of the above acceptance criteria plus the following:
 
-* Uses the [Inquirer package links](https://www.npmjs.com/package/inquirer/v/8.2.4). to an external site..
+* Uses the [Inquirer package links](https://www.npmjs.com/package/inquirer/v/8.2.4) to an external site.
 
 ### Repository Quality: 13%
 * Repository has a unique name.
