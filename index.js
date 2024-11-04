@@ -57,7 +57,19 @@ function init() {
             type: 'input',
             message: questions[6],
             name: 'Bugs',
-           }
+           },
+        
+        {
+            type: "checkbox",
+            name: "licenceChoice",
+            message: "Select license.",
+            choices: [
+                {name: "MIT", value: "https://opensource.org/licenses/MIT"},
+                {name: "Apache 2.0", value: "https://opensource.org/licenses/Apache-2.0)"},
+                {name: "GPL 3.0", value: "https://opensource.org/licenses/GPL-3.0"},
+                {name: "none", value: " "},]
+            
+            }
     ])
 .then((answers => {
     const {Purpose, Title, Creators, Licenses, Install, Improvements, Bugs} = answers;
