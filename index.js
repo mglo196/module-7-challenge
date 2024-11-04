@@ -1,6 +1,6 @@
 // TODO: Include package needed for this application
-const inquirer = require('inquirer');
-const fs = require('fs')
+import inquirer from 'inquirer';
+import fs from 'fs';
 
 // TODO: Create an array of questions for user input
 const questions = [
