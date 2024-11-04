@@ -23,6 +23,7 @@ Before you start, download the starter codeLinks to an external site..
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
+```
 
 ## Acceptance Criteria
 
@@ -42,6 +43,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+```
 
 ## Getting Started
 Here are some guidelines to help you get started:
@@ -108,24 +110,4 @@ This Challenge is graded based on the following criteria:
 * A sample README.md file for a project repository generated using your application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-note
-You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next Module.
-
-Comments are disabled for graded submissions in BootCamp Spot. If you have questions about your feedback, please notify your instructional staff or the Student Success Advisor. If you would like to resubmit your work for an improved grade, you can use the Resubmit Assignment button to upload new links. You may resubmit up to three times for a total of four submissions.
-
-important
-It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo. This applies if you have worked with a peer on an assignment, used code in which you did not author or create sourced from a forum such as Stack Overflow, or you received code outside curriculum content from support staff such as an Instructor, TA, Tutor, or Learning Assistant. This will provide visibility to grading staff of your circumstance in order to avoid flagging your work as plagiarized.
-
-If you are struggling with a Challenge or any aspect of the curriculum, please remember that there are student support services available for you:
-
-Ask the class Slack channel/peer support.
-
-AskBCS Learning Assistants exists in your class Slack application.
-
-Office hours facilitated by your instructional staff before and after each class session.
-
-Tutoring GuidelinesLinks to an external site.—schedule a session in the "Tutor Sessions" section of Bootcampspot - Canvas.
-
-If the above resources are not applicable and you have a need, please reach out to a member of your instructional team, your Student Success Advisor, or submit a support ticket in the Student Support section of your BCS application.
 
