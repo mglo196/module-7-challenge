@@ -17,7 +17,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 ## Important
 Make sure to download and unzip the starter code files and make your own repository with the starter code.
 
-Before you start, download the starter codeLinks to an external site..
+Before you start, download the starter code links to an external site.
 
 ## User Story
 
@@ -50,25 +50,25 @@ THEN I am taken to the corresponding section of the README
 ## Getting Started
 Here are some guidelines to help you get started:
 
-* Create a '.gitignore' file and include 'node_modules/' and '.DS_Store/' so that your 'node_modules' directory isn't tracked or uploaded to GitHub. Be sure to create your '.gitignore' file before installing any npm dependencies.
+* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
-* Make sure that your repo includes a 'package.json' with the required dependencies. You can create one by running 'npm init' when you first set up the project, before installing any dependencies.
+* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
 
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
-* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) to an external site. on the Full-Stack Blog for additional guidance on creating a video.
+* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) to an external site on the Full-Stack Blog for additional guidance on creating a video.
 
 ## Grading Requirements
 >**Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
-
+>
 >* A repository that has no code
-
+>
 >* A repository that includes a unique name but nothing else
-
+>
 >* A repository that includes only a README file but nothing else
-
+>
 >* A repository that only includes starter code
 
 This Challenge is graded based on the following criteria:
