@@ -3,7 +3,9 @@
 
 ## Your Task
 
-Your task is to modify starter code to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer packageLinks to an external site.. Review the Professional README GuideLinks to an external site. as a reminder of everything that a high-quality, professional README should contain.
+Your task is to modify starter code to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4) to an external site.
+
+Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain.
 
 The application will be invoked by using the following command:
 ```bash
@@ -48,27 +50,26 @@ THEN I am taken to the corresponding section of the README
 ## Getting Started
 Here are some guidelines to help you get started:
 
-* Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your .gitignore file before installing any npm dependencies.
+* Create a '.gitignore' file and include 'node_modules/' and '.DS_Store/' so that your 'node_modules' directory isn't tracked or uploaded to GitHub. Be sure to create your '.gitignore' file before installing any npm dependencies.
 
-* Make sure that your repo includes a package.json with the required dependencies. You can create one by running npm init when you first set up the project, before installing any dependencies.
+* Make sure that your repo includes a 'package.json' with the required dependencies. You can create one by running 'npm init' when you first set up the project, before installing any dependencies.
 
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
-* Refer to the Video Submission GuideLinks to an external site. on the Full-Stack Blog for additional guidance on creating a video.
+* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) to an external site. on the Full-Stack Blog for additional guidance on creating a video.
 
 ## Grading Requirements
-**note**:
-If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+>**Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 
-* A repository that has no code
+>* A repository that has no code
 
-* A repository that includes a unique name but nothing else
+>* A repository that includes a unique name but nothing else
 
-* A repository that includes only a README file but nothing else
+>* A repository that includes only a README file but nothing else
 
-* A repository that only includes starter code
+>* A repository that only includes starter code
 
 This Challenge is graded based on the following criteria:
 
@@ -89,7 +90,7 @@ This Challenge is graded based on the following criteria:
 ### Technical Acceptance Criteria: 40%
 * Satisfies all of the above acceptance criteria plus the following:
 
-* Uses the Inquirer packageLinks to an external site..
+* Uses the [Inquirer package links](https://www.npmjs.com/package/inquirer/v/8.2.4). to an external site..
 
 ### Repository Quality: 13%
 * Repository has a unique name.
