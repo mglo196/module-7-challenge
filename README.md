@@ -11,7 +11,7 @@
 - [Review](#review)
 - [Mock Up](#mockup)
 - [The Deployment](#the-deployment)
-- - [Questions](#questions)
+- [Questions](#questions)
 
 ## Your Task
 
